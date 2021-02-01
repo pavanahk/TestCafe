@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "testcafe chrome loginpage/PlistaLoginPageTest.js"
+    },
+    "dependencies": {
+        "testcafe": "^1.10.1"
+    }
+}
